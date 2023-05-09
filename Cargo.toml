@@ -1,0 +1,13 @@
+[package]
+name = "mycalc"
+version = "0.0.0"
+edition = "2021"
+description = "A GUI calc"
+license = "MIT"
+repository = "https://github.com/hzqd/MyCalc"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+eval = "0.4.3"
+slint = "1.0.2"
